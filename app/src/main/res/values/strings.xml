@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProyectoTurismoCaral</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="one">¿QUE ENCONTRAMOS?</string>
+    <string name="two">GALERIA DE FOTOS</string>
+    <string name="three">¿QUE HACER?</string>
+    <string name="four">RESTAURANTES \n\ y \n\ HOTELES</string>
+</resources>
